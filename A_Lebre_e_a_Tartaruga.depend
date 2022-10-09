@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1665325813 source:c:\users\gucor\onedrive\Área de trabalho\programa\a_lebre_e_a_tartaruga\main.cpp
+	<iostream>
+	<gconio.h>
+	<locale.h>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+	"regras.h"
+
+1665325795 c:\users\gucor\onedrive\Área de trabalho\programa\a_lebre_e_a_tartaruga\regras.h
+	<iostream>
+	<gconio.h>
+
